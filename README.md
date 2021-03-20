@@ -1,2 +1,2 @@
-# planClass
+# Plan class
 A class manager website
